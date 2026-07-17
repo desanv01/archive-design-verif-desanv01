@@ -223,3 +223,16 @@ riscv-opcodes/file_handling/demo_output/
 riscv-opcodes/riscv_opcodes/*.txt
 riscv-opcodes/riscv_opcodes/*.json
 riscv-opcodes/riscv_opcodes/*.csv
+
+# Peripheral verification generated files
+peripheral_verification/.venv/
+peripheral_verification/**/__pycache__/
+peripheral_verification/**/.pytest_cache/
+peripheral_verification/**/sim_build/
+peripheral_verification/**/*.log
+peripheral_verification/**/*.fst
+peripheral_verification/**/*.vcd
+peripheral_verification/**/results.xml
+peripheral_verification/**/coverage_test.log
+peripheral_verification/**/iverilog_dump.v
+peripheral_verification/**/*.pyc
