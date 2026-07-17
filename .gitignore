@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+riscv-opcodes/.venv/
+riscv-opcodes/**/__pycache__/
+riscv-opcodes/file_handling/demo_data/
+riscv-opcodes/file_handling/demo_output/
+riscv-opcodes/riscv_opcodes/*.txt
+riscv-opcodes/riscv_opcodes/*.json
+riscv-opcodes/riscv_opcodes/*.csv
